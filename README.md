@@ -1,16 +1,16 @@
-# doctor_profile
+# Doctor Profile App
 
-A new Flutter project.
+A Flutter application that displays a doctor's profile with a clean and responsive UI.
 
-## Getting Started
+## Features
+- Doctor's name, specialty, and description.
+- Stylish UI with responsive design.
+- Easy to customize.
 
-This project is a starting point for a Flutter application.
+## Preview
+<img src="assets/Screenshot_1754605811.png" alt="Doctor Profile Preview" width="300">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/doctor_profile.git
